@@ -1,0 +1,11 @@
+name: AntiLag
+version: 2.0
+main: me.konsolas.antilag.AntiLag
+author: konsolas
+description: Silent, effective anti lag plugin
+commands:
+   antilag:
+      description: Force a strict removal of entities. For when your server is lagging.
+      usage: /<command>
+      permission: AntiLag.antilag
+      permission-message: You do not have permission to perform that command.
