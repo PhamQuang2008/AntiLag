@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HsSUVGSc3c)
 # AntiLag
 - 💥 Limit and eliminate unnecessary waste in the server continuously to avoid the server being heavy and overloaded.
 - 💖 Plugin created by QuangDev05 of Nexus Studio.
